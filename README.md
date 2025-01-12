@@ -1,4 +1,3 @@
 # Image-Classification
-Developed and deployed a Deep Learning image classification web application using Django and AWS, 
-comparing Dense and CNN models on the MNIST dataset. Implemented image preprocessing using OpenCV 
-and PIL for optimized model performance.
+Developed a multi-class image classification model using CNN and Keras, trained on the Intel Image dataset. 
+Achieved high accuracy in classifying images of buildings, forests, streets, and more.
